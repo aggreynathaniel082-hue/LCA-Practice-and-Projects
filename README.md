@@ -26,4 +26,8 @@ Each project folder below includes:
 | _(coming soon)_ | | |
 
 
+
+
+
+
 *This repository is actively updated as I complete new projects.*
